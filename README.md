@@ -8,6 +8,6 @@ A version of the [Password-Generator-v1.0](https://github.com/famaxth/Password-G
 ## How to use
 * [Download Telegram](https://desktop.telegram.org/)
 * Install the script
-* Edit `token` in file config.py 
+* Edit `TOKEN` in file config.py 
 * Launch the bot!
 
