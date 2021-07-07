@@ -3,7 +3,7 @@ A version of the [Password-Generator-v1.0](https://github.com/famaxth/Password-G
 
 ## Required
 * Python 3.9
-* pyTelegramBotApi 3.7.4
+* aiogram 2.14.2
 
 ## How to use
 * [Download Telegram](https://desktop.telegram.org/)
