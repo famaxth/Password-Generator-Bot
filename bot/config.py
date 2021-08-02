@@ -1,1 +1,1 @@
-TOKEN="text"
+TOKEN = "text"
